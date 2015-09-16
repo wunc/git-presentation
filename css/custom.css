@@ -1,7 +1,7 @@
 /* this is a custom CSS stylesheet */
 
 h1 {
-	color: rgb(50,50,50);
+	color: rgb(150,150,150);
 }
 
 p {
@@ -12,7 +12,7 @@ p {
 }
 
 .author {
-	color: rgb(50,50,50);
+	color: rgb(50,150,150);
 	font-size: 16px;
 	font-style: italic;
 	text-align: center;
